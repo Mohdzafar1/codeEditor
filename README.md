@@ -1,5 +1,23 @@
 PROJECT URL:-https://codeditor1.netlify.app/
 
+![Screenshot (108)](https://github.com/Mohdzafar1/codeEditor/assets/68924688/77f5b58c-565c-4788-8ede-90860deb1a4d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Work flow of the Code editor application
 
 Step1-We are dived screen two part left and right
